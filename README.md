@@ -1,2 +1,2 @@
 # Flight_fare_prediction
-flight_rf.pkl not able to put because of size issues
+flight_rf.pkl not able to push because of size issues
